@@ -1,0 +1,10 @@
+<nav>
+    <ul>
+        <li id="actual"><a href="Controller">Home</a></li>
+        <li><a href="Controller?action=SignUp">Sign up</a></li>
+        <li><a href="Controller?action=Products">Products</a></li>
+        <li><a href="Controller?action=AddProduct">Add product</a></li>
+        <li><a href="Controller?action=Cart">My cart</a></li>
+        <li><a href="Controller?action=History">My history</a></li>
+    </ul>
+</nav>
